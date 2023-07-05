@@ -1,9 +1,8 @@
 # Jack's Blog
 ## About
-This is a collection of my notes as I have progressed in my cyber career. 
+This is a collection of my notes that I often refer back to. 
 
 ## Links
 ### Malware Notes
-Static Analysis 
-Dynamic Analysis 
+[Static Analysis](https://github.com/jplowri0/Blog/blob/main/malware/Static_Analysis.md) 
 
